@@ -371,7 +371,7 @@ def inqRapidNewsApi14(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
     results.append("### RapidAPI: News-API-14")
-    url = "https://free-news.p.rapidapi.com/v2/search/articles"
+    url = "'https://news-api14.p.rapidapi.com/v2/search/articles"
     querystring = {"query":"Klimawandel","language":"de","limit":"20"}
     headers = {
         'x-rapidapi-key': apiKey,
