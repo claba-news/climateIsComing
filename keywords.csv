@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimawandel Konsum',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,2,0.9
-'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,2,0.9
+'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,2,0.9
-'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,2,0.9
+'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,2,0.9
 'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.89
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.79511367
+'Klimawandel Konsum',de,Klimawandel,#ff0000,#ff0000,2,0.76590009
 'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,2,0.765750075
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,2,0.765750075
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.765000105
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
-'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.20359493708780946
+'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.2035949370878094
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
