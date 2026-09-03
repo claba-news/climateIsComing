@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.8197505700000001
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,2,0.81090009
-'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.7986051436363637
 'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,2,0.784050405
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,2,0.765750075
 'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,2,0.765750075
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,2,0.7251277829999999
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.6975227295
 'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.695150015
+'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.6878741961818182
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.675750525
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.6505501192500001
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.65025
