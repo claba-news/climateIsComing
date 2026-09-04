@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.8197505700000001
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,2,0.81090009
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,2,0.765750075
-'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.765000015
 'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,1,0.765
 'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.7565
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,2,0.7251277829999999
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,1,0.66644326425
 'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.65088763875
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.6505501192500001
+'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.6505500427500001
 'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,1,0.65037752775
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.65025
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.595150015
@@ -28,4 +28,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.1171402705827298
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.1171402705827298
-'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.09967761583282032
+'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.0996776158328203
