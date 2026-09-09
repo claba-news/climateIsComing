@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.695150015
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.675750525
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.65025
-'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.612760839075
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.593495370075
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5896616217545455
 'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.5810045679375
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,1,0.5528208985875
 'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,1,0.5527124999999999
 'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.54657125
+'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.52144726821375
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4128693674055356
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2575988187194466
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2349033155453851
