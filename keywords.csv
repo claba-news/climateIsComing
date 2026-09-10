@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.695150015
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.675750525
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,2,0.62959695555
-'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.593495370075
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5896616217545455
 'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.5810045679375
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.5736775427499999
@@ -14,10 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,1,0.5528208985875
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.5527124999999999
 'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,1,0.5527124999999999
+'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.53942217456375
 'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.52144726821375
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.471408317746875
 'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.470299933636875
-'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.46458556249999994
+'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.4645855624999999
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4128693674055356
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2575988187194466
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2349033155453851
