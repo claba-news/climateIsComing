@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.847259734578972
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.8117140270582729
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,2,0.81090009
+'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.690706997999532
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.675750525
 'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.59117754275
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5896616217545455
@@ -12,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,3,0.5444778324348912
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.53942217456375
 'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.52144726821375
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.48792594133749995
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4879259413374999
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.471408317746875
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.470299988908125
 'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.470299933636875
@@ -28,4 +29,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543541316996
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
-'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.81171402705827298
