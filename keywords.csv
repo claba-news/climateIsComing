@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,2,0.81090009
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.690706997999532
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.675750525
-'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.59117754275
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5896616217545455
 'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.5810045679375
 'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,2,0.5712772546125
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,3,0.5444778324348912
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.53942217456375
 'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.52144726821375
+'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.5028009413375
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4879259413374999
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.471408317746875
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.470299988908125
