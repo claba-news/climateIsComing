@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.715851422999532
+'Industrie Klimawandel',de,Industrie,#000000,#000000,3,0.6981119208795732
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,1,0.6892652414999999
 'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.6121451582333073
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5896616217545455
@@ -28,4 +29,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543541316996
-'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.81707173632890979
