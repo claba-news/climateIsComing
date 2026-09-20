@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.715851422999532
-'Industrie Klimawandel',de,Industrie,#000000,#000000,3,0.6981119208795732
 'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,1,0.6892652414999999
+'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.5933961227476372
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5896616217545455
 'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.5848793777205883
 'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,2,0.5712772546125
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.471408317746875
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.4698056249999999
 'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.4422748768235645
-'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.42565995808396256
+'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.4256599580839625
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4128693674055356
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.4002050355719063
 'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.3948977281249999
