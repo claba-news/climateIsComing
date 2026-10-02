@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.53942217456375
 'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.52144726821375
 'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.5028009413375
-'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.471408317746875
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.4256599580839625
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4148870651368749
 'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,1,0.4128761549575312
+'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.4009971000848438
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.3993347812499999
 'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,1,0.3993347812499999
 'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.3948977281249999
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.3409243552361203
 'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,1,0.2889618777807911
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2575988187194466
-'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.24610505903240892
+'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.2461050590324089
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2349033155453851
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.2101041742076703
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.2035949370878094
