@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,1,0.3933858661842088
 'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,1,0.3897334001223093
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.3658360437948926
-'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.3642337761163437
 'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,1,0.3394345640624999
+'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.31004875469889215
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.2991307012004994
 'Klimawandel Konsum',de,Klimawandel,#ff0000,#ff0000,1,0.2905131473660282
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.2616443203458135
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.2101041742076703
 'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,1,0.2097431469874139
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.2084552516548826
-'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.19623971243189858
+'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.1962397124318985
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543541316996
 'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.1778109051509153
