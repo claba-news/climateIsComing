@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2575988187194466
 'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.2427940950347655
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2349033155453851
-'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.2202461409797967
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.2170162978068558
 'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.2102920118343823
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.2101041742076703
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,1,0.2093075099466215
 'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.2084552516548826
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
+'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.18720921983282718
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543541316996
 'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.1778109051509153
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,2,0.1730565365246379
